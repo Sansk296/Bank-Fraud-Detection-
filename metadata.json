@@ -1,0 +1,6 @@
+{
+  "name": "BFS – Bank Fraud Shield",
+  "description": "Secure Banking. Smarter Fraud Detection. College project for detecting and simulating suspicious banking activities with Rule-Based and ML Logistic Regression fraud detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
